@@ -1,0 +1,19 @@
+img {
+  width: 100%;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+#demo {
+  height: 50px;
+  width: 200px;
+  color: white;
+  margin: 0 auto;
+  font-size: 48px;
+  letter-spacing: 3px;
+}
